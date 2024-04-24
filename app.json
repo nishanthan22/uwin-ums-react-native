@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bd306b5f-b1f0-4ac7-b05c-bc8915e47c01"
+      }
+    },
+    "owner": "nishanthdev22"
   }
 }
